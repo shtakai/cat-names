@@ -1,4 +1,4 @@
-# cat-names [![Build Status](https://travis-ci.org/sindresorhus/cat-names.svg?branch=master)](https://travis-ci.org/sindresorhus/cat-names)
+# cat-names [![Build Status](https://travis-ci.org/sindresorhus/cat-names.svg?branch=master)](https://travis-ci.org/sindresorhus/cat-names) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/cat-names.svg)](https://www.guardrails.io)
 
 > Get popular cat names
 
